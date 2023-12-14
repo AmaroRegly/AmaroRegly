@@ -1,6 +1,8 @@
 - <h1 align="center">Hi 👋, I'm Amaro Regly</h1>
 <h3 align="center">I'm a digital marketing specialist transitioning to Data Analysis.</h3>
 
+Throughout my career as a marketing professional, I've realized the profound impact data can have on a company's growth. This realization led me to deepen my knowledge on this subject and make the transition to the data area. I currently have a solid foundation in SQL and Power BI, and I am constantly improving my proficiency in using Python for Data Analysis. I believe that my expertise in metrics, business acumen and my growing skills in data analysis tools such as SQL, Python and Power BI position me well to extract and process data from databases, transforming them into valuable insights for the company I work for.
+
 - 🌱 I’m currently learning **Python, Pandas, SQL, Microsoft Power BI**
 
 - 💬 Ask me about **Data Analytics, Digital Marketing**
